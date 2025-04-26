@@ -2,3 +2,4 @@ git init: crea un archivo .git oculto en la carpeta deseada
 git add .: agrega archivos modificados a subir.
 git comit -m "Descripcion del cambio" agregar una descripcion al cambio
 git remote add origin direccion
+git push origin main
