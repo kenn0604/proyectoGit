@@ -1,2 +1,3 @@
 git init: crea un archivo git en el proyecto.
 git add .: agrega archivos modificados para subir.
+git commit -m "*DESCRIPCION DEL CAMBIO*": agrega una descripcion al cambio antes de subirlo.
