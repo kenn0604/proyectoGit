@@ -6,4 +6,4 @@ git push origin "sube los cambios al main o a la rama en la que se esté trabaja
 git clone "crea una copia local del repositorio"
 git pull origin main "baja o descarga los cambios del main o una rama en específico"
 git checkout -b "crea una rama"
-git cheackout "cambiar entre ramas"
+git checkout "cambiar entre ramas"
