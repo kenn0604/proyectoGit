@@ -4,3 +4,4 @@ git commit -m "agrega los cambios al historial de git con una descripción de lo
 git remote add origin "enlaza el archivo original con el repositorio de github"
 git push origin "sube los cambios al main o a la rama en la que se esté trabajando"
 git clone "crea una copia local del repositorio"
+git pull origin main "baja o descarga los cambios del main o una rama en específico"
