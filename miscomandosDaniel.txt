@@ -4,3 +4,4 @@ git commit "guardar los cambios en el historial de git con una descripción de l
 git remote add origin "Conecta el archivo original con el repositorio en github"
 git push origin "sube los cambias al main o a la rama deseada"
 git clone "se usa para crear una copia local del repositorio"
+git pull origin "baja los cambios hechos por otros colaboradores"
