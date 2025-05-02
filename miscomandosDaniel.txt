@@ -1,2 +1,1 @@
 git init "crea un archivo git en el proyecto" 
-git add "agrega los archivos modificados a subir"
