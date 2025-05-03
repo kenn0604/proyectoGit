@@ -2,3 +2,4 @@ git init: crear archivo git en el proyecto
 git add: agregar archivos modificar o subir
 git commit -m: "Descripcion del cambio" agregar una descripcion al cambio
 git remote add origin direccion 
+git push origin main 
