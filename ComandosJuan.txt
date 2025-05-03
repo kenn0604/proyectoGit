@@ -1,1 +1,2 @@
 git init ¨crear archivo git en el proyecto¨
+git add "agrega los cambios en el historial de git con una descprición de lo que se realizó"
