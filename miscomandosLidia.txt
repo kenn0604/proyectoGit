@@ -1,6 +1,6 @@
 git init "crea un archivo git en el proyecto"
 git add "agrega los archivos modificados a subir"
-git commit -m: "Descripcion del cambio" agregar una descripcion al cambio
+git commit -m "agrega los cambios al historial de git con una descripcion de lo realizado"
 git remote add origin "enlaza el archivo original con el repositorio de github"
 git push origin main "baja o descarga los cambios del main o una rama en la que se este trabajando"
 git clone "crea una copia local del repositorio"
