@@ -3,3 +3,4 @@ git add "agrega los cambios en el historial de git con una descprición de lo qu
 git commit -m "agrega los cambios al historial de git con una descripción de lo que se realizó
 git remote add origin "enlaza el archivo original con el repositorio de github"
 git clone "crea una copia local del repositorio"
+git pull origin main "baja o descarga los cambios del main o de una rama en específico"
