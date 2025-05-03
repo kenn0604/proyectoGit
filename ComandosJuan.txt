@@ -1,0 +1,1 @@
+git init ¨crear archivo git en el proyecto¨
