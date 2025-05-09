@@ -9,3 +9,4 @@ git pull origin [main(rama)]: obtiene y fusiona los cambios del repositorio remo
 git init: crea un archivo .git en el proyecto.
 git add .: agrega archivos modificados para subir.
 git commit -m "*DESCRIPCIÓN DEL CAMBIO*": agrega una descripción al cambio antes de subirlo.
+git remote add [direccion]: enlaza tu repositorio local con uno remoto (por ejemplo en GitHub) mediante una URL.
