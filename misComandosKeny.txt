@@ -2,3 +2,5 @@ git init: crea un archivo git en el proyecto.
 git add .: agrega archivos modificados para subir.
 git commit -m "*DESCRIPCION DEL CAMBIO*": agrega una descripcion al cambio antes de subirlo.
 git remote add [direccion]:  enlaza tu repositorio local con uno remoto (por ejemplo en GitHub) mediante una URL.
+git push origin [main(rama)]: sube los cambios confirmados al repositorio remoto 
+git clone "link": descarga (clona) un repositorio remoto a tu máquina local.
