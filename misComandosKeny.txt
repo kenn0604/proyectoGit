@@ -15,3 +15,4 @@ git clone "link": descarga (clona) un repositorio remoto a tu máquina local.
 git pull origin [main(rama)]: obtiene y fusiona los cambios del repositorio remoto a tu rama local especificada.
 -------------------------------------------------------------------------------------------------------------------------
 git init: crea un archivo .git en el proyecto.
+git add .: agrega archivos modificados para subir.
