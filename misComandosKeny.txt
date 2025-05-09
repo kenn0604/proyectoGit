@@ -5,3 +5,4 @@ git remote add [direccion]:  enlaza tu repositorio local con uno remoto (por eje
 git push origin [main(rama)]: sube los cambios confirmados al repositorio remoto 
 git clone "link": descarga (clona) un repositorio remoto a tu máquina local.
 git pull origin [main(rama)]: obtiene y fusiona los cambios del repositorio remoto a tu rama local especificada.
+-------------------------------------------------------------------------------------------------------------------------
