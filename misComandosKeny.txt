@@ -20,3 +20,4 @@ git commit -m "*DESCRIPCIÓN DEL CAMBIO*": agrega una descripción al cambio ant
 git remote add [direccion]: enlaza tu repositorio local con uno remoto (por ejemplo en GitHub) mediante una URL.
 git push origin [main(rama)]: sube los cambios confirmados al repositorio remoto en la rama especificada (por ejemplo, main).
 git clone "link": descarga (clona) un repositorio remoto a tu máquina local.
+git pull origin [main(rama)]: obtiene y fusiona los cambios del repositorio remoto a tu rama local especificada.
